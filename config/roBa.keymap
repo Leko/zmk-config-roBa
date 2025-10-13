@@ -86,7 +86,7 @@
 &mt LCTRL LANG1   &kp LEFT_WIN  &kp LEFT_ALT  &mt LCMD LANG2  &lt 2 SPACE  &kp TAB            &kp ENTER         &kp BACKSPACE                             &lt_to_layer_0 3 DELETE
             >;
 
-            sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         FUNCTION {
